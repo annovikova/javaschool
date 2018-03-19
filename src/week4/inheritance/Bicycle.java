@@ -3,7 +3,7 @@ package week4.inheritance;
 public class Bicycle extends Vehicle implements HumanPowered {
 
     public void beep() {
-        System.out.println("Din-dong!");
+        System.out.println("Din-dong!!");
     }
 
     public void run() {
